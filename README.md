@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0064ff&height=150&section=header&text=Jiwon's%20Github&fontSize=50&fontColor=ffffff&animation=blinking" />
 </div>
-
+<br><br><br><br>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
 
 <h3 align="center">📫 Contact 📫</h3>
