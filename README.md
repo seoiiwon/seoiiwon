@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon's&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwon&layout=compact)
 
 
 <!--
