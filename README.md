@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=&height=300&section=header&text=capsule%20render&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=&height=300&section=header&text=Jiwon's%Github&fontSize=90&animation=blinking)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg)
 
