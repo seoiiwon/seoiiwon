@@ -5,7 +5,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
 
 <!-- contact -->
-<h3 align="center">📫 Contact</h3>
+<h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">
   <!-- instagram -->
   <a href="https://www.instagram.com/seoiiwon">
@@ -38,7 +38,7 @@
 <br><br>
 
 <!-- stack -->
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">📖 Tech Stack 📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
 </div>
@@ -51,7 +51,7 @@
 <br><br>
 
 <!-- tools -->
-<h3 align="center">Tools</h3>
+<h3 align="center">🔨 Tools ⛏️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
