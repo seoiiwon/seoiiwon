@@ -11,7 +11,15 @@
   </a>-->
   <a href="https://www.instagram.com/seoiiwon">
     <img
-      src="https://img.shields.io/badge/@seoiiwon-D300C5?style=for-the-badge&logo=instagram&logoColor=white"/>
+      src="https://img.shields.io/badge/@seoiiwon-202632?style=for-the-badge&logo=instagram&logoColor=D300C5"/>
+  </a>
+  <a href="https://blog.naver.com/wldnjstj99">
+    <img
+      src="https://img.shields.io/badge/naver blog-202632?style=for-the-badge&logo=naver&logoColor=2DB400"/>
+  </a>
+  <a href="https://happyjiwon.tistory.com">
+    <img
+      src="https://img.shields.io/badge/Tistory-202632?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
   <br>
   <a href="mailto:wldnjstj99@naver.com">
