@@ -11,12 +11,14 @@
   </a>-->
   <a href="mailto:wldnjstj99@naver.com">
     <img
-      src="https://img.shields.io/badge/wldnjstj99@naver.com.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/wldnjstj99@naver.com.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
+  <br>
   <a href="mailto:wldnjstj99@gmail.com">
     <img
-      src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
