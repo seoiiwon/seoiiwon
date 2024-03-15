@@ -17,7 +17,7 @@
   <a href="mailto:wldnjstj99@naver.com">
     <img
       src="https://img.shields.io/badge/wldnjstj99@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>$nbsp
+  </a>&nbsp
   <a href="mailto:wldnjstj99@gmail.com">
     <img
       src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
