@@ -11,7 +11,7 @@
   </a>-->
   <a href="mailto:wldnjstj99@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:wldnjstj99@gmail.com">
     <img
