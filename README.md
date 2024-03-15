@@ -2,33 +2,28 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0064ff&height=150&section=header&text=Jiwon's%20Github&fontSize=50&fontColor=ffffff&animation=blinking" />
 </div>
 <br><br><br><br>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
 
-<h3 align="center">📫 Contact</h3>
+### 📫 Contact
 <div align="center">
   <!--<a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>-->
   <a href="https://www.instagram.com/seoiiwon">
-    <img
-      src="https://img.shields.io/badge/@seoiiwon-D300C5?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@seoiiwon-D300C5?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <br>
   <a href="mailto:wldnjstj99@naver.com">
-    <img
-      src="https://img.shields.io/badge/wldnjstj99@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/wldnjstj99@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>&nbsp
   <a href="mailto:wldnjstj99@gmail.com">
-    <img
-      src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br>
 </div>
 
 <br><br>
 
-<h3 align="center">Tech Stack</h3>
-
+### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
 </div>
@@ -41,7 +36,7 @@
 
 <br><br>
 
-<h3 align="center">Tools</h3>
+### Tools
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
