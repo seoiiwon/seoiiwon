@@ -11,7 +11,7 @@
   </a>-->
   <a href="https://www.instagram.com/seoiiwon">
     <img
-      src="https://img.shields.io/badge/@seoiiwon-FF0069?style=for-the-badge&logo=instagram&logoColor=D300C5"/>
+      src="https://img.shields.io/badge/@seoiiwon-FF0069?style=for-the-badge&logo=instagram&logoColor=FFD600"/>
   </a>
   <br>
   <a href="mailto:wldnjstj99@naver.com">
