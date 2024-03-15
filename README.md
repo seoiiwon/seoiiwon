@@ -1,8 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=&height=300&section=header&text=Jiwon's%20Github&fontSize=90&animation=blinking)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg)
 
 <!--
 **seojiwonn/seojiwonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
