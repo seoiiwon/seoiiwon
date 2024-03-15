@@ -9,6 +9,10 @@
   <!--<a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>-->
+  <a href="https://www.instagram.com/seoiiwon">
+    <img
+      src="https://img.shields.io/badge/@seoiiwon-2DB400?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:wldnjstj99@naver.com">
     <img
       src="https://img.shields.io/badge/wldnjstj99@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
