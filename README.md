@@ -41,7 +41,9 @@
 <h3 align="center">📖 Tech Stack 📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp 
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-EC2025?style=for-the-badge&logo=Java&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/spring-fffffe?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -64,7 +66,8 @@
   <img src="https://img.shields.io/badge/Visual Studio-2C2C32.svg?style=for-the-badge&logo=visualstudio&logoColor=F37726" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
+  <img src="https://img.shields.io/badge/intellij idea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=FC315E" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
 <br><br>
