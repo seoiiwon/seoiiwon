@@ -4,35 +4,36 @@
 <br><br><br><br>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
 
+
 <!-- contact -->
-<h3 align="center">✉️ Contact ✉️</h3>
-<div align="center">
+<!--<h3 align="center">✉️ Contact ✉️</h3>
+<div align="center">-->
   <!-- instagram -->
-  <a href="https://www.instagram.com/seoiiwon">
+  <!--<a href="https://www.instagram.com/seoiiwon">
     <img
       src="https://img.shields.io/badge/@seoiiwon-202632?style=for-the-badge&logo=instagram&logoColor=D300C5"/>
-  </a>
+  </a>-->
   <!-- naverblog -->
-  <a href="https://blog.naver.com/wldnjstj99">
+  <!--<a href="https://blog.naver.com/wldnjstj99">
     <img
       src="https://img.shields.io/badge/naverblog-202632?style=for-the-badge&logo=naver&logoColor=2DB400"/>
-  </a>
+  </a>-->
   <!-- tistroy -->
-  <a href="https://happyjiwon.tistory.com">
+ <!-- <a href="https://happyjiwon.tistory.com">
     <img
       src="https://img.shields.io/badge/Tistory-202632?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
+  </a>-->
   <br>
   <!-- navermail -->
-  <a href="mailto:wldnjstj99@naver.com">
+  <!--<a href="mailto:wldnjstj99@naver.com">
     <img
       src="https://img.shields.io/badge/wldnjstj99@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
+  </a>-->
   <!-- gmail -->
-  <a href="mailto:wldnjstj99@gmail.com">
+  <!--<a href="mailto:wldnjstj99@gmail.com">
     <img
       src="https://img.shields.io/badge/wldnjstj99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>-->
 </div>
 
 <br><br>
@@ -70,4 +71,4 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 </div>
 
-<br><br>
+<br><br> 
