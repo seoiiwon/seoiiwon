@@ -1,9 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0064ff&height=100&section=header&text=Jiwon's%20Github&fontSize=40&fontColor=ffffff&animation=blinking" />
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=wave)
+
+
 <br><br><br><br>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoiiwon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- contact -->
 <!--<h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">-->
