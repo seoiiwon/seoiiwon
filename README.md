@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0064ff&height=100&section=header&text=Jiwon's%20Github&fontSize=40&fontColor=ffffff&animation=blinking" />
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=blue)
 
 
 <br><br><br><br>
