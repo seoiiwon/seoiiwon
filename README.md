@@ -3,8 +3,7 @@
 </div>
 <br><br><br><br>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiwon's+Github;Follow+Me+(seojiwonn))](https://git.io/typing-svg) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoiiwon)](https://github.com/seoiiwon/seoiiwon)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoiiwon)](https://github.com/anuraghazra/github-readme-stats)
 <!-- contact -->
 <!--<h3 align="center">✉️ Contact ✉️</h3>
 <div align="center">-->
