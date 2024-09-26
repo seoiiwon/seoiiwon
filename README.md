@@ -17,7 +17,7 @@
 ```
  
 <br>
-
+<!--
 ### 🥢 Stack 
 <div>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
 </div>
-
+-->
 <br>
 
 <!-- <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=seoiiwon&show_icons=true&theme=dracula"/></a> -->
