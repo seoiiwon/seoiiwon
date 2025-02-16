@@ -1,13 +1,13 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:bcbcbc,50:fdfdfd,100:bcbcbc&height=200&section=header&text=seoiiwon&fontSize=50" /></div>
+<!--
 
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:bcbcbc,50:fdfdfd,100:bcbcbc&height=200&section=header&text=seoiiwon&fontSize=50" /></div>
+-->
 
 ## 🧑🏻‍💻 Seo Jiwon
-✉️ : wldnjstj99@gmail.com <br><br>
 <a href="https://www.instagram.com/seoiiwon"><img src="https://img.shields.io/badge/@seoiiwon-cdcdcd?style=for-the-badge&logo=instagram&logoColor=000000"/></a>
 <a href="https://happyjiwon.tistory.com"><img src="https://img.shields.io/badge/Tistory-cdcdcd?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
-
 <br>
-
+<!--
 ### 💭 Experience
 ```shell
 [2023.03 - 2023.12] 멋쟁이사자처럼 11기 경상국립대 아기사자
@@ -20,7 +20,7 @@
 
 
 ```
- 
+ -->
 <br>
 <!--
 ### 🥢 Stack 
@@ -39,10 +39,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
 </div>
 -->
-<br>
 
 <!-- <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=seoiiwon&show_icons=true&theme=dracula"/></a> -->
-<br>
+
 <div>
   <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoiiwon&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,bcbcbc,dfdfdf,dfdfdf,bcbcbc&theme=graywhite"/></a>
 </div>
