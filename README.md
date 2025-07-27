@@ -12,15 +12,15 @@
 ```
 [2023]
 - 1784 School Revolution Univ Student Mentor (2023.01 ~ 2023.03)
-- LIKELION GNU 11th member (2023.03 ~ 2023.12)
+- LIKELION GNU 11th Member (2023.03 ~ 2023.12)
 
 [2024]
 - 1784 School Revolution Univ Student Mentor (2023.12 ~ 2024.02)
-- LIKELION GNU 12th operations team (2024.03 ~ 2024.12)
-- 9OORMTHON UNIV GNU 3rd representative (2024.08 ~ 2024.12)
+- LIKELION GNU 12th Operations Team (2024.03 ~ 2024.12)
+- 9OORMTHON UNIV GNU 3rd Leader (2024.08 ~ 2024.12)
 
 [2025]
-- 9OORMTHON UNIV GNU 4th representative (2025.03~ )
+- 9OORMTHON UNIV GNU 4th Leader (2025.03~ )
 - 2025 Hana Social Venture University (2025.07)
 ```
 
